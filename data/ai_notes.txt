@@ -1,0 +1,12 @@
+Artificial Intelligence is a branch of computer science.
+AI enables machines to learn from data and make decisions.
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data without being explicitly programmed.
+
+Deep Learning uses neural networks to solve complex problems.
+Large Language Models like GPT are based on deep learning.
+
+RAG stands for Retrieval Augmented Generation.
+RAG combines document retrieval with large language models.
+It helps AI systems answer questions using external knowledge.
