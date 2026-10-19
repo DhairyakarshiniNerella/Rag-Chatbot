@@ -16,7 +16,6 @@ vectorstore/
 
 # Streamlit Cache
 .streamlit/
-
 uploads/
 .env
 vectorstore/
